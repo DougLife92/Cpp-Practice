@@ -1,4 +1,5 @@
 // Takes 2 numbers, find the numbers divisable by 4 and 6 between the 2 numbers
+// For a job application for Marathon Targets
 
 #include <iostream>
 #include <vector>
